@@ -3,7 +3,7 @@ layout: post
 title: "Home Automation"
 description: "Designing and implementation of Home automation system."
 categories: envision
-thumbnail: "thumbnailD09.jpg"
+thumbnail: "(https://github.com/surajkoppad/Home-Automation-System/blob/main/thumbnail.jpg)"
 year: 2023
 ---
 

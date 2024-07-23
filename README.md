@@ -39,7 +39,7 @@ In smart lock, we lock and unlock door using Adafruit IO on smartphone. Microcon
 
 Following is the circuit implemented for smart lock
 
-![smartlock](https://github.com/surajkoppad/Home-Automation-System/blob/main/motor.png)
+![smartlock](https://github.com/surajkoppad/Home-Automation-System/blob/main/smartlock.png)
 
 
 ### Light control system

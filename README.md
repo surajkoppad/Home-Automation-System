@@ -50,7 +50,7 @@ The water management system uses an ultrasonic sensor HCSR-04 to track water lev
 
 Following is the circuit of water system
 
-![motor](/virtual-expo/assets/img/DIODE/images/motorD09.png)
+![motor](https://github.com/surajkoppad/Home-Automation-System/blob/main/motor.png)
 
 ### Fire alarm
 A DHT11 sensor is used to monitor the temperature, based on which it also alarms the user if temperature levels are high in house. Humidity levels are also monitored and displayed.
